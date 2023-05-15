@@ -14,7 +14,7 @@ public class ModItems {
 
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, Tutorialmod.MOD_ID);
 
-    public static final RegistryObject<Item> Undying_Elytra = ITEMS.register("undying_elytra",()-> new Item(new Item.Properties().durability(1296).tab(CreativeModeTab.TAB_TRANSPORTATION).rarity(Rarity.UNCOMMON)));
+    public static final RegistryObject<Item> Undying_Elytra = ITEMS.register("undying_elytra",()-> new Item(new Item.Properties().durability(648).tab(CreativeModeTab.TAB_TRANSPORTATION).rarity(Rarity.RARE)));
 
 
 
