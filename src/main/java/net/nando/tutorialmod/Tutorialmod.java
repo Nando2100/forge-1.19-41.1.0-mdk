@@ -35,7 +35,7 @@ public class Tutorialmod
     private void commonSetup(final FMLCommonSetupEvent event)
     {
 
-        //empty ggggg
+        //empty
     }
 
 
