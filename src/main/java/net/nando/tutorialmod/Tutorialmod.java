@@ -18,7 +18,7 @@ public class Tutorialmod
 
     public static final String MOD_ID = "tutorialmod";
     private static final Logger LOGGER = LogUtils.getLogger();
-    //ab
+
 
 
     public Tutorialmod()
@@ -35,7 +35,7 @@ public class Tutorialmod
     private void commonSetup(final FMLCommonSetupEvent event)
     {
 
-        //empty
+        //empty ggggg
     }
 
 
